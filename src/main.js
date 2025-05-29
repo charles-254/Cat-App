@@ -1,5 +1,3 @@
-import axios from 'axios'
-
 let imageResultsWrapper = document.querySelector(".image-results-wrapper")
 let factsResultWrapper = document.querySelector(".facts-results-wrapper")
 const imgSubmitBtn = document.querySelector("#image-submit-btn")
